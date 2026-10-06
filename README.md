@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Mateusz! 👋
+
+I am a 3rd-year Mathematics student at AGH University of Krakow, translating rigorous mathematical and statistical theory into impactful Data Science solutions. My core focus is building robust Machine Learning models, finding patterns in complex datasets, and turning them into real business value.
+
+-  **Currently focusing on:** Predictive Modeling, Advanced Statistical Analysis, and robust ML workflows (avoiding data leakage).
+-  **Data Science Stack:** Python (Pandas, NumPy, Scikit-Learn, XGBoost), SQL, PostgreSQL, Power BI.
+-  **My approach:** I don't just train models; I build end-to-end solutions, validate hypotheses rigorously, and care about clean data architecture.
+-  **Fun fact:** Coming from a competitive football background, I treat model tuning and debugging like post-match tactical analysis—always looking for the optimal strategy.
+
+ **Let's connect:** linkedin.com/in/mateusz-danieluk-954254297
 
 <!--
 **M-Danieluk/M-Danieluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
